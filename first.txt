@@ -1,1 +1,1 @@
-What si up? This is the first commit.
+What si up? This is the first commit. Making a change to the first file.
